@@ -33,7 +33,7 @@ param(
     [string]$Backend
 )
 
-# Notify script start
+# Notify script start and so on
 Write-Host "--- DevContainer Startup & Connection Script ---"
 Write-Host "Using backend: $($Backend)"
 
