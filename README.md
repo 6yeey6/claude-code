@@ -11,7 +11,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 <img src="./demo.gif" />
 
 ## Get started
-> [!NOTE] go
+> [!NOTE] here we go！
 > Installation via npm is deprecated. Use one of the recommended methods below.
 
 For more installation options, uninstall steps, and troubleshooting, see the [setup documentation](https://code.claude.com/docs/en/setup).
